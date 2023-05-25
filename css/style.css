@@ -1,0 +1,24 @@
+.nav-link {
+  padding: 2rem;
+  display: block;
+  font-size: large;
+  text-decoration: none;
+  color: gray;
+}
+#nav {
+  border-top: 4px solid gray;
+  border-bottom: 4px solid gray;
+  padding: 2rem;
+}
+.nav-link :hover {
+  border: 2px solid gray;
+}
+
+.main-section {
+  padding: 2rem;
+}
+
+.section-header {
+  font-size: xx-large;
+  text-align: center;
+}
